@@ -9,7 +9,7 @@ function Footer() {
                 </div>
 
                 <div class="footer-iconsTop">
-                    <a href="#home"><i class='bx bx-up-arrow-alt'></i></a>
+                    <a href="#home"><box-icon name='up-arrow-alt'></box-icon></a>
                 </div>
             </footer>
         </div>

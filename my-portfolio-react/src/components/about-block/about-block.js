@@ -16,10 +16,9 @@ function AboutBlock() {
                         In my social pages you can see more photo about my private life.
                     </p>
                     <div class="social-media">
-                        <a href="https://www.facebook.com/vi6vi6" target="_blank"><i class='bx bxl-meta' ></i></a>
-                        <a href="https://www.instagram.com/dmitrijs.visnakovs/"><i class='bx bxl-instagram'
-                            target="_blank"></i></a>
-                        <a href="https://github.com/DVISNAKO" target="_blank"><i class='bx bxl-git'></i></a>
+                        <a href="https://www.facebook.com/vi6vi6" target="_blank"><box-icon type='logo' name='facebook-circle'></box-icon></a>
+                        <a href="https://www.instagram.com/dmitrijs.visnakovs/"><box-icon type='logo' name='instagram'></box-icon></a>
+                        <a href="https://github.com/DVISNAKO" target="_blank"><box-icon type='logo' name='github'></box-icon></a>
                     </div>
                     <a href="#" class="btn">Download CV</a>
                 </div>

@@ -1,7 +1,4 @@
-section {
-    min-height: 100vh;
-    padding: 10rem, 9% 2rem;
-}
+
 
 .home {
     display: flex;
@@ -70,7 +67,7 @@ img {
 }
 
 .social-media a:hover {
-    background: var(--main-color);
+    background: white;
     color: var(--second-bg-color);
     box-shadow: 0 0 1rem var(--main-color);
 }

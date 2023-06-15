@@ -2,6 +2,7 @@ import './app.css';
 import Header from '../header/header';
 import Footer from '../footer/footer';
 import AboutBlock from '../about-block/about-block';
+import MySkill from '../my-skills/MySkill';
 
 function App () {
     return (
@@ -12,6 +13,7 @@ function App () {
 
         <div className='block'>
             <AboutBlock/>
+            <MySkill/>
         </div>
 
         <div className='foot'>
