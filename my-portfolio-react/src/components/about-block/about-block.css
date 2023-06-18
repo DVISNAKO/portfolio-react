@@ -57,7 +57,7 @@ img {
     align-items: center;
     width: 4rem;
     height: 4rem;
-    background: transparent;
+    background: rgb(196, 194, 194);
     border: .2rem solid var(--main-color);
     border-radius: 50%;
     font-size: 2rem;
@@ -67,7 +67,7 @@ img {
 }
 
 .social-media a:hover {
-    background: white;
+    background: var(--main-color);
     color: var(--second-bg-color);
     box-shadow: 0 0 1rem var(--main-color);
 }
