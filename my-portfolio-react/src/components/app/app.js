@@ -2,7 +2,7 @@ import Header from '../header/header';
 import Footer from '../footer/footer';
 import AboutBlock from '../about-block/about-block';
 import MySkill from '../my-skills/MySkill';
-import LatesProjects from '../lates-projects/LatesProjects';
+import JavascriptProjects from '../javascript-projects/JavascriptProjects';
 
 
 import './app.css';
@@ -19,9 +19,8 @@ function App () {
         <div className='block'>
             <AboutBlock/>
             <MySkill/>
-            <LatesProjects/>
-           <ContactForm/>
-           
+            <JavascriptProjects/>
+            <ContactForm/>
         </div>
 
         <div className='foot'>

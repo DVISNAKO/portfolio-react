@@ -11,7 +11,7 @@ function AboutBlock() {
                 <div class="home-content">
                     <h3>Hello, It's Me</h3>
                     <h1>Dmitry Vishnyakov</h1>
-                    <h3>And I'm a <span class="multiple-text"></span></h3>
+                    <h3>And I'm a <span class="multiple-text">Frontend Developer</span></h3>
                     <p>Welcome to my portfolio project where I use #HTML #CSS #JavaScript technologies.
                         In my social pages you can see more photo about my private life.
                     </p>

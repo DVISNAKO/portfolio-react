@@ -17,7 +17,7 @@ const MySkill = () => {
                             <li>Age: 32</li>
                             <li>Languages: Russian/Latvian/English</li>
                             <li>Programming experience from: 01.04.2022</li>
-                            <li>Tehnologies what I use: HTML/CSS/JavaScript/React</li>
+                            <li>Tehnologies what I use: HTML/CSS/JavaScript/React/Git</li>
                             <p id="think"><b>You can't know everything, <br/>but if you can think, you can do anything.</b></p>
                         </ul>
                     </p>
