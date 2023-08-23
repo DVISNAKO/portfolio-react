@@ -11,7 +11,7 @@ const JavascriptProjects = () => {
 
                 <div class="portfolio-container">
                     <div class="portfolio-box">
-                        <img src={require("./portfolio2.jpg")} alt="calculator"/>
+                        <img src={require("./calculator.png")} alt="calculator"/>
                                 <div class="portfolio-layer">
                                     <h4>Calculator</h4>
                                     <p>In this project, you can choose your gender, <br/>add your body information, and get your daily
