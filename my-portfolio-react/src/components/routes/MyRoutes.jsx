@@ -4,6 +4,7 @@ import ErrorPage from './ErrorPage';
 import Calculator from '../pagesJS/calculator/Calculator';
 import App from '../app/app';
 import Slider from '../pagesJS/slider/Slider';
+import Timer from '../pagesJS/timer/Timer';
 
 
 
@@ -21,6 +22,10 @@ const router = createBrowserRouter([
 
     {path: '/slider',
     element: <Slider/>
+    },
+
+    {path: '/timer',
+    element: <Timer/>
     },
 
 

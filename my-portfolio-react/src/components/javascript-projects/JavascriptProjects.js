@@ -28,11 +28,11 @@ const JavascriptProjects = () => {
                                 </div>
                         </div>
                         <div className="portfolio-box">
-                        <img src={require("./portfolio2.jpg")} alt="timer"/>
+                        <img src={require("./timer.png")} alt="timer"/>
                                 <div className="portfolio-layer">
                                     <h4>Timer</h4>
                                     <p>Modul with timer, which can be used in four promotion</p>
-                                    <a href="/pages/timer.html"><box-icon name='down-arrow' ></box-icon></a>
+                                    <Link to='timer'><box-icon name='down-arrow' ></box-icon></Link>
                                 </div>
                         </div>
                         <div className="portfolio-box">
