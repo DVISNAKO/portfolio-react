@@ -82,10 +82,15 @@ img {
     color: var(--second-bg-color);
     letter-spacing: .1rem;
     font-weight: 600;
-    margin: 3rem 1.5rem 0;
+    margin: 3rem 1.5rem 1;
+    
 }
 
 .btn:hover {
     box-shadow: none;
 }
 
+#CvBnt {
+    margin-top: 3rem;
+    margin-left: 2rem;
+}

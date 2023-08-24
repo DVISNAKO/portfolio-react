@@ -4,12 +4,12 @@ import { Link } from 'react-router-dom';
 function Header() {
     return (
         <div className='header'>
-            <header class="header">
-                <a href="/" class="logo">Portfolio</a>
+            <header className="header">
+                <a href="/" className="logo">Portfolio</a>
 
-                <i class='bx bx-menu' id="menu-icon"></i>
+                <i className='bx bx-menu' id="menu-icon"></i>
 
-                <nav class="navbar">
+                <nav className="navbar">
                     <Link to="/">Home</Link>
                     <a href="#about">About</a>
                     <a href="#portfolio">JavaScript Projects</a>

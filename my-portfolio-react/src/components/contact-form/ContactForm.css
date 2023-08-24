@@ -38,4 +38,5 @@
 .contact form .btn {
     margin-top: 2rem;
     cursor: pointer;
+    width: 150px;
 }
