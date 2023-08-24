@@ -5,6 +5,7 @@ import Calculator from '../pagesJS/calculator/Calculator';
 import App from '../app/app';
 import Slider from '../pagesJS/slider/Slider';
 import Timer from '../pagesJS/timer/Timer';
+import ToDoApp from '../pagesJS/toDo/ToDoApp';
 
 
 
@@ -28,6 +29,9 @@ const router = createBrowserRouter([
     element: <Timer/>
     },
 
+    {path: '/todo',
+    element: <ToDoApp/>
+    },
 
     
   ]); 
