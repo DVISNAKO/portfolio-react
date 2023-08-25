@@ -6,6 +6,7 @@ import App from '../app/app';
 import Slider from '../pagesJS/slider/Slider';
 import Timer from '../pagesJS/timer/Timer';
 import ToDoApp from '../pagesJS/toDo/ToDoApp';
+import Modal from '../pagesJS/modal/Modal';
 
 
 
@@ -33,6 +34,9 @@ const router = createBrowserRouter([
     element: <ToDoApp/>
     },
 
+    {path: '/modal',
+    element: <Modal/>
+    },
     
   ]); 
 

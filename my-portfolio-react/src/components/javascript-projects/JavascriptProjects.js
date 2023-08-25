@@ -46,7 +46,7 @@ const JavascriptProjects = () => {
           </div>
         </div>
         <div className="portfolio-box">
-          <img src={require("./portfolio2.jpg")} alt="todo" />
+          <img src={require("./todo.png")} alt="todo" />
           <div className="portfolio-layer">
             <h4>ToDo</h4>
             <p>
@@ -59,13 +59,13 @@ const JavascriptProjects = () => {
           </div>
         </div>
         <div className="portfolio-box">
-          <img src={require("./portfolio2.jpg")} alt="modal" />
+          <img src={require("./modal.png")} alt="modal" />
           <div className="portfolio-layer">
             <h4>Modal window project</h4>
             <p>Open modal window after click on button or after timer</p>
-            <a href="/Pages/modal.html">
+            <Link to="modal">
               <box-icon name="down-arrow"></box-icon>
-            </a>
+            </Link>
           </div>
         </div>
         <div className="portfolio-box">

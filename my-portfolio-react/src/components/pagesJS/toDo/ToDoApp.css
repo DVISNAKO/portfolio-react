@@ -129,7 +129,7 @@
   .wrapper {
     border: 1px solid black;
     padding: 15px;
-    background-color: rgb(224, 209, 182);
+    /* background-color: rgb(224, 209, 182); */
     width: 900px;
   
   }

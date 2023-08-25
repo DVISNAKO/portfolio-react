@@ -2,10 +2,9 @@ import React from "react";
 import { useEffect, useState } from 'react';
 import Header from "../../header/header";
 import Footer from "../../footer/footer";
-import './ToDoApp.css';
 import NewTodoForm from "./NewTodoForm";
 import TodoList from "./TodoList";
-
+import './ToDoApp.css';
 
 const ToDoApp = () => {
 
