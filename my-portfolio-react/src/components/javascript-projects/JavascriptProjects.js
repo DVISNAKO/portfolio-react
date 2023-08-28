@@ -69,13 +69,13 @@ const JavascriptProjects = () => {
           </div>
         </div>
         <div className="portfolio-box">
-          <img src={require("./portfolio2.jpg")} alt="bootstrap" />
+          <img src={require("./salaryApp.png")} alt="salaryApp" />
           <div className="portfolio-layer">
-            <h4>Bootstrap 5</h4>
+            <h4>SalaryApp</h4>
             <p>Responsive layout</p>
-            <a href="/Pages/bootstrap.html">
+            <Link to="salaryApp">
               <box-icon name="down-arrow"></box-icon>
-            </a>
+            </Link>
           </div>
         </div>
       </div>

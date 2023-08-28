@@ -1,4 +1,4 @@
-/* Calculator */
+Calculator
 
 .wrapper{
     display: flex;
@@ -36,11 +36,12 @@ span {
 }
 
 button {
-width: 100px;
+
 font-size: 2rem;
 height: 4rem;
 border-radius: 2px solid;
 margin: 5px;
+padding: 10px;
 }
 
 .active1 {
@@ -56,7 +57,7 @@ margin: 5px;
 }
 
 input {
-width: 130px;
+width: 200px;
 font-size: 2rem;
 height: 3.5rem;
 border-radius: 2px solid;

@@ -7,6 +7,7 @@ import Slider from '../pagesJS/slider/Slider';
 import Timer from '../pagesJS/timer/Timer';
 import ToDoApp from '../pagesJS/toDo/ToDoApp';
 import Modal from '../pagesJS/modal/Modal';
+import SalaryApp from '../pagesJS/salaryApp/SalaryApp';
 
 
 
@@ -36,6 +37,10 @@ const router = createBrowserRouter([
 
     {path: '/modal',
     element: <Modal/>
+    },
+
+    {path: '/salaryApp',
+    element: <SalaryApp/>
     },
     
   ]); 
